@@ -1,0 +1,6 @@
+.foto {
+    background: url(../Aula-05-04/img/wallpaper4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
